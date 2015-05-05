@@ -8,7 +8,7 @@
 
     <article>
         <p>        
-            Use this area to provide additional information.
+            bla bla.
         </p>
         ss
         <p>        
